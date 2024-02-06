@@ -1,6 +1,6 @@
 # Privacy Policy for Wanning Gibbous Watch Face
 
-NBLSoft is committed to protecting your privacy. This Privacy Policy outlines how [Your Company Name] collects, uses, maintains, and discloses information collected from users of the [Your Watch Face Name] watch face.
+NBLSoft is committed to protecting your privacy. This Privacy Policy outlines how NBLSoft collects, uses, maintains, and discloses information collected from users of the Wanning Gibbous Watch Face.
 
 # No Data Collection or Access:
 
@@ -16,7 +16,7 @@ NBLSoft has the discretion to update this privacy policy at any time. When we do
 
 # Your Acceptance of these Terms:
 
-By using Wanning Gibbous Watch Face, you signify your acceptance of this policy. If you do not agree to this policy, please do not use [Your Watch Face Name]. Your continued use of [Your Watch Face Name] following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using Wanning Gibbous Watch Face, you signify your acceptance of this policy. If you do not agree to this policy, please do not use Wanning Gibbous Watch Face. Your continued use of Wanning Gibbous Watch Face following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 # Contacting Us:
 
